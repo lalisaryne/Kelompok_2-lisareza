@@ -50,6 +50,7 @@
     <Compile Include="Forms\GuruForm.cs" />
     <Compile Include="Forms\LoginForm.cs" />
     <Compile Include="Forms\SiswaForm.cs" />
+    <Compile Include="lisarezajagobrhsil.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -76,6 +77,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="lisarezajago\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
