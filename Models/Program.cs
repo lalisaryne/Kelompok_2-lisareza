@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace AuthenticationAuthorization.Models
 {
-    internal class userlogin
+    internal class Program
     {
+
     }
 }
