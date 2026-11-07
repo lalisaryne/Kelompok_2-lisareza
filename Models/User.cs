@@ -8,6 +8,6 @@ namespace AuthenticationAuthorization.Models
 {
 	internal class User
 	{
-		string username = "Halo Test Wilson";
+
 	}
 }

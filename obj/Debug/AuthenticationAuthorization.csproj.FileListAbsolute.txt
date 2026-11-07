@@ -1,0 +1,14 @@
+C:\saya\Kelompok_2-lisareza\bin\Debug\AuthenticationAuthorization.exe.config
+C:\saya\Kelompok_2-lisareza\bin\Debug\AuthenticationAuthorization.exe
+C:\saya\Kelompok_2-lisareza\bin\Debug\AuthenticationAuthorization.pdb
+C:\saya\Kelompok_2-lisareza\bin\Debug\Guna.UI2.dll
+C:\saya\Kelompok_2-lisareza\obj\Debug\AuthenticationAuthorization.csproj.AssemblyReference.cache
+C:\saya\Kelompok_2-lisareza\obj\Debug\AuthenticationAuthorization.Properties.Resources.resources
+C:\saya\Kelompok_2-lisareza\obj\Debug\AuthenticationAuthorization.csproj.GenerateResource.cache
+C:\saya\Kelompok_2-lisareza\obj\Debug\AuthenticationAuthorization.csproj.CoreCompileInputs.cache
+C:\saya\Kelompok_2-lisareza\obj\Debug\Authenti.769CA31D.Up2Date
+C:\saya\Kelompok_2-lisareza\obj\Debug\AuthenticationAuthorization.exe
+C:\saya\Kelompok_2-lisareza\obj\Debug\AuthenticationAuthorization.pdb
+C:\saya\Kelompok_2-lisareza\obj\Debug\Siakada.LoginForm.resources
+C:\saya\Kelompok_2-lisareza\obj\Debug\Siakada.AdminForm.resources
+C:\saya\Kelompok_2-lisareza\obj\Debug\Siakada.GuruForm.resources

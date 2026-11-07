@@ -1,4 +1,6 @@
-﻿using System;
+﻿using AuthenticationAuthorization;
+using Siakada;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +18,10 @@ namespace AuthenticationAuthorization
 		{
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
-			Application.Run(new Form1());
-		}
+            Application.Run(new AdminForm());
+            Application.Run(new GuruForm());
+            Application.Run(new LoginForm());
+			Application.Run(new SiswaForm());
+        }
 	}
 }
