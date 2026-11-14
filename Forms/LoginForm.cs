@@ -58,14 +58,17 @@ namespace Siakada
 				}
 				else if (user.Role == "Guru")
 				{
-					new GuruForm().ShowDialog();
+					new GuruForm(user.Id).ShowDialog();
 				}
 				else if (user.Role == "Siswa")
 				{
-					new SiswaForm().ShowDialog();
+					new SiswaForm(user.Id).ShowDialog();
 				}
 
-				this.Close();
+				this.Show();
+				txtUsername.Clear();
+				txtPassword.Clear();
+				txtUsername.Focus();
 			}
 			catch (Exception ex)
 			{
